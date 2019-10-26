@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluiTec.AppFx.Reflection", "FluiTec.AppFx.Reflection\FluiTec.AppFx.Reflection.csproj", "{33019646-C912-424A-9919-90C951295C00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluiTec.AppFx.Reflection.Test", "FluiTec.AppFx.Reflection.Test\FluiTec.AppFx.Reflection.Test.csproj", "{9990B045-84C6-4332-9C4D-A70154E5C6AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluiTec.AppFx.Reflection.Test.TestAsm", "FluiTec.AppFx.Reflection.Test.TestAsm\FluiTec.AppFx.Reflection.Test.TestAsm.csproj", "{87DA0237-80F5-46F0-A48D-7841DF79662C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33019646-C912-424A-9919-90C951295C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33019646-C912-424A-9919-90C951295C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33019646-C912-424A-9919-90C951295C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33019646-C912-424A-9919-90C951295C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9990B045-84C6-4332-9C4D-A70154E5C6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9990B045-84C6-4332-9C4D-A70154E5C6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9990B045-84C6-4332-9C4D-A70154E5C6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9990B045-84C6-4332-9C4D-A70154E5C6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DA0237-80F5-46F0-A48D-7841DF79662C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DA0237-80F5-46F0-A48D-7841DF79662C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DA0237-80F5-46F0-A48D-7841DF79662C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DA0237-80F5-46F0-A48D-7841DF79662C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA6F7739-7C2C-47E7-8120-6F3CE2239F77}
+	EndGlobalSection
+EndGlobal
