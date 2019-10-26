@@ -3,7 +3,6 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
 	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	  <PackageLicenseUrl>https://github.com/FluiTec/FluiTec.AppFx.Reflection/blob/master/LICENSE.md</PackageLicenseUrl>
 	  <PackageProjectUrl>https://www.nuget.org/packages/FluiTec.AppFx.Reflection/</PackageProjectUrl>
 	  <RepositoryUrl>https://github.com/FluiTec/FluiTec.AppFx.Reflection</RepositoryUrl>
 	  <NeutralLanguage>de</NeutralLanguage>
